@@ -11,12 +11,12 @@ const store = (function () {
   const hideCheckedItems = false;
   const searchTerm = '';
 
-
-
   return {
     items: items,
     hideCheckedItems: hideCheckedItems,
     searchTerm: searchTerm
   };
+
+
 
 }() );
