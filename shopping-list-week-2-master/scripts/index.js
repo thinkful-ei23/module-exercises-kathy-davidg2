@@ -9,5 +9,4 @@ $(document).ready(function() {
   shoppingList.render();
 });
 
-console.log(store);
-console.log(foo);
+
